@@ -10,11 +10,11 @@
          <p>🍀 I'm a 2nd year Integrated Computer Science student at Trinity College Dublin
 
 
-  🍄 Take a look at the projects on my [**profile**](https://github.com/vandenEv)
+  🍄 Take a look at my [**projects**](https://github.com/vandenEv)!
 
-🪲 You can find updates about me on my [**LinkedIn**](https://www.linkedin.com/in/eva-van-den-berg-547413330)
+🪲 See what I'm up to on my [**LinkedIn**](https://www.linkedin.com/in/eva-van-den-berg-547413330)
 
-🪼 Feel free to reach out through email **vandenev@tcd.ie**
+🪼 Contact me via email: **vandenev@tcd.ie**
 </p>
       </ul>
     </td>
