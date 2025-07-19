@@ -7,11 +7,11 @@
   <tr>
     <td width="500">       
       <ul>
-         <p>🍀 I'm a 2nd year Integrated Computer Science student @ Trinity College Dublin
+         <p>🍀 I'm a 3rd year Integrated Computer Science student @ Trinity College Dublin
 
 🍄 See what I'm up to on my [**LinkedIn**](https://www.linkedin.com/in/eva-van-den-berg-547413330)
 
-🪲 Contact me via email: **vandenev@tcd.ie**
+🪲 Contact me via email: **evavandenberg05@icloud.com**
 </p>
       </ul>
     </td>
